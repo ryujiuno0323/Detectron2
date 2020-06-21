@@ -1,2 +1,2 @@
-# Detectron2_try
+# Detectron2
 Detectron2
